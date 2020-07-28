@@ -2,8 +2,8 @@
 
 // Declare and initialize the following variables with appropriate values: name (string), age (number), birthday (string), detroitGC (boolean), lifeEvents (array with 4 items - 4 important life events)
 
-let name = "Kristi Wisniowiecki",
-    let age = 30;
+let name = "Kristi Wisniowiecki";
+let age = 30;
 const birthday = "August 12";
 let detroitGC = false;
 let lifeEvents = ["I was born in Clearwater, Florida.", "I went to Calvin College.", "I earned my blackbelt in Taekwondo in high school.", "I am currently attending a front-end bootcamp."];
